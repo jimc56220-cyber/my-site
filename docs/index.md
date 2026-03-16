@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 学习日志
-      link: /logs/
+      link: /journal/
     - theme: alt
       text: 项目作品
       link: /projects/

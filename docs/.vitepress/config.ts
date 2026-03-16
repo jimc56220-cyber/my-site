@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '学习日志', link: '/logs/' },
+      { text: '学习日志', link: '/journal/' },
       { text: '项目作品', link: '/projects/' }
     ],
 
@@ -17,7 +17,7 @@ export default defineConfig({
         {
           text: '学习日志',
           items: [
-            { text: '日志首页', link: '/logs/' }
+            { text: '日志首页', link: '/journal/' }
           ]
         }
       ],
