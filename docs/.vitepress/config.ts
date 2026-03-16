@@ -32,7 +32,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/你的GitHub用户名' }
+      { icon: 'github', link: 'https://github.com/jimc56220-cyber' }
     ]
   }
 })
