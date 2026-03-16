@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: '王同学',
   description: '学习日志与项目作品集',
-  base: '/',
+  base: '/my-site/',
 
   themeConfig: {
     nav: [
