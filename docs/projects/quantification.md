@@ -1,1 +1,53 @@
-www.quantification.com
+# Quantification项目介绍
+
+###### 
+
+## 网站业务
+
+这是一个企业官网系统，
+
+主要用于  公司信息展示、服务介绍，
+
+以及通过后台管理实现内容的动态维护。
+
+[----->点击访问我的网站<-----](http://45.32.244.60:8088/back/page/showIndex/showIndex.html)
+
+## 网站架构
+
+系统采用前后端分离架构，前端负责页面展示，后端提供接口服务，通过 Nginx 做统一入口和反向代理，数据库使用 MySQL，图片资源使用 MinIO 存储。
+
+## 网站功能
+
+官网展示（首页、公司介绍、服务）
+
+后台管理（内容维护）
+
+图片上传与管理（MinIO）
+
+
+
+## 我的工作
+
+我主要负责前后端接口开发、数据库设计以及项目部署，同时参与整体功能设计，并解决了跨域和资源访问等问题。
+
+
+
+## 我的感受
+
+这是我第一个完整从开发到上线的项目，对我来说意义比较大。项目中除了前端页面样式部分，后端接口设计、数据结构以及整体部署流程基本都是我独立完成的。
+ 通过这个项目，我第一次把前后端开发、接口联调以及服务器部署串成一个完整流程，对系统整体有了更清晰的理解。
+
+
+
+## 展示区
+
+首页![Snipaste_2026-03-21_11-38-31](C:\Users\Administrator\my-site\docs\resource\Snipaste_2026-03-21_11-38-31.png)
+
+卡片区示例![Snipaste_2026-03-21_11-39-35](C:\Users\Administrator\my-site\docs\resource\Snipaste_2026-03-21_11-39-35.png)
+
+卡片详情示例![Snipaste_2026-03-21_11-40-02](C:\Users\Administrator\my-site\docs\resource\Snipaste_2026-03-21_11-40-02.png)
+
+联系区示例![Snipaste_2026-03-21_11-40-25](C:\Users\Administrator\my-site\docs\resource\Snipaste_2026-03-21_11-40-25.png)
+
+管理管展示![Snipaste_2026-03-21_11-40-42](C:\Users\Administrator\my-site\docs\resource\Snipaste_2026-03-21_11-40-42.png)
+
