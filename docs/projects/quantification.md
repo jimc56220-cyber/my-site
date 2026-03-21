@@ -41,13 +41,13 @@
 
 ## 展示区
 
-首页![Snipaste_2026-03-21_11-38-31](\resource\Snipaste_2026-03-21_11-38-31.png)
+首页![Snipaste_2026-03-21_11-38-31](..\resource\Snipaste_2026-03-21_11-38-31.png)
 
-卡片区示例![Snipaste_2026-03-21_11-39-35](\resource\Snipaste_2026-03-21_11-39-35.png)
+卡片区示例![Snipaste_2026-03-21_11-39-35](..\resource\Snipaste_2026-03-21_11-39-35.png)
 
-卡片详情示例![Snipaste_2026-03-21_11-40-02](\resource\Snipaste_2026-03-21_11-40-02.png)
+卡片详情示例![Snipaste_2026-03-21_11-40-02](..\resource\Snipaste_2026-03-21_11-40-02.png)
 
-联系区示例![Snipaste_2026-03-21_11-40-25](\resource\Snipaste_2026-03-21_11-40-25.png)
+联系区示例![Snipaste_2026-03-21_11-40-25](..\resource\Snipaste_2026-03-21_11-40-25.png)
 
-管理管展示![Snipaste_2026-03-21_11-40-42](\resource\Snipaste_2026-03-21_11-40-42.png)
+管理管展示![Snipaste_2026-03-21_11-40-42](..\resource\Snipaste_2026-03-21_11-40-42.png)
 
