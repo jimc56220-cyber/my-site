@@ -249,12 +249,12 @@ Controller → Service → Mapper → Database
 
 
 
-![Snipaste_2026-03-26_20-40-12](C:/Users/Administrator/my-site/docs/resource/Snipaste_2026-03-26_20-40-12.png)
+![Snipaste_2026-03-26_20-40-12](../resource/Snipaste_2026-03-26_20-40-12.png)
 
-![Snipaste_2026-03-26_20-41-28](C:/Users/Administrator/my-site/docs/resource/Snipaste_2026-03-26_20-41-28.png)
+![Snipaste_2026-03-26_20-41-28](../resource/Snipaste_2026-03-26_20-41-28.png)
 
-![Snipaste_2026-03-26_20-42-43](C:/Users/Administrator/my-site/docs/resource/Snipaste_2026-03-26_20-42-43.png)
+![Snipaste_2026-03-26_20-42-43](../resource/Snipaste_2026-03-26_20-42-43.png)
 
-![Snipaste_2026-03-26_20-42-51](C:/Users/Administrator/my-site/docs/resource/Snipaste_2026-03-26_20-42-51.png)
+![Snipaste_2026-03-26_20-42-51](../resource/Snipaste_2026-03-26_20-42-51.png)
 
-![Snipaste_2026-03-26_20-43-03](C:/Users/Administrator/my-site/docs/resource/Snipaste_2026-03-26_20-43-03.png)
+![Snipaste_2026-03-26_20-43-03](../resource/Snipaste_2026-03-26_20-43-03.png)
